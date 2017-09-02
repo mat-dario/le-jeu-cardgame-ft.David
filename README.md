@@ -1,6 +1,8 @@
-## StarGame Inc. -- CardsGame
-# Authors:
+---
+# StarGame Inc. -- CardsGame
+## Authors:
 - Mathieu Dario
 - 4nonyme
-# Description:
+## Description:
 - A creation of a new concept of playing card games. To try !
+---
